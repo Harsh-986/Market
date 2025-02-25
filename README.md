@@ -4,10 +4,10 @@ A **fully responsive** e-commerce website built with **React Vite, Redux Toolkit
 
 ## 📸 Screenshots
 
-![Home Page](Screenshot 2025-02-25 173028.png)
-![Home Page](Screenshot 2025-02-25 173049.png)
-![Home Page](Screenshot 2025-02-25 173134.png)
-![Home Page](Screenshot 2025-02-25 173221.png)
+![Home Page](1.png)
+![Home Page](2.png)
+![Home Page](3.png)
+![Home Page](4.png)
 
 
 ## 🚀 Features
